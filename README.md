@@ -11,3 +11,4 @@
 | 1 | Решение систем линейных уравнений, исследование совместности, собственные значения и собственный векторы матрицы | [pdf](practical_works/year_01/semester_01/practical_1/task.pdf) |
 | 2 | Разложение векторов, центр тяжести, длина и направляющие косинусы векторов | [pdf](practical_works/year_01/semester_01/practical_2/task.pdf) |
 | 3 | Площадь, объем; скалярная и векторная проекции вектора | [pdf](practical_works/year_01/semester_01/practical_3/task.pdf) |
+| 4 | Центр окружности, описанной около треугольника; уравнения сторон треугольника | [pdf](practical_works/year_01/semester_01/practical_4/task.pdf) |
